@@ -1,2 +1,6 @@
 # young-s-activator-inhibitor-model
-David A. Young の脊椎動物の毛皮模様を再現するセルラ・オートマトンモデル．
+David A. Young (1984) による，脊椎動物の毛皮模様を再現するセルラ・オートマトンモデル．
+
+## 参考文献
+* David A. Young:	"A Local Activator-Inhibitor Model of Vertebrate Skin Patterns",	Mathematical Bioscience, No. 72, pp. 51-58, 1984.
+* 加藤 恭義, 築山 洋, 光成 友孝: "セルオートマトン法", 森北出版, 1998.
