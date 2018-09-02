@@ -1,0 +1,5 @@
+*.md
+*.class
+*.cmd
+frames
+ffmpeg.exe
