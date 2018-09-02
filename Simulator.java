@@ -14,7 +14,8 @@ public class Simulator extends AbstractSimulator {
     public Simulator() {
 		//セルを生成
 		for(int i = 0; i < col; i++) {
-			double w2 = -0.34 + i * 0.18 / col; //gradation
+			//double w2 = -0.34 + i * 0.18 / col; //gradation
+			double w2 = -1;
 			for(int j = 0; j < row; j++) {
 				cell[i][j] = new Cell(this, i, j);
 				cell[i][j].	setParameters(1.0, w2, 2.3, 6.01);;

@@ -8,7 +8,7 @@
 import java.util.*;
 
 public class Cell extends AbstractCell {
-	public static int col = 40; //行の数 (縦のセル数)
+	public static int col = 80; //行の数 (縦のセル数)
 	public static int row = 80; //列の数 (横のセル数)
 
 	private double wActivator; // 活性化物質濃度

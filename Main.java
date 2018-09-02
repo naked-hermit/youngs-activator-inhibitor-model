@@ -15,7 +15,7 @@ public class Main extends Grid2D {
 		setStrokeWeight(0);
 		setCellSize(4,4); //セルの大きさを設定
 		size(row, col); //ウィンドウサイズを指定
-		setTerminate(-1); //終了ステップ数を設定
+		setTerminate(10); //終了ステップ数を設定
 		doesSave(true); //動画を保存
     }
 
